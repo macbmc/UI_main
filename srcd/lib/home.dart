@@ -95,17 +95,17 @@ class _HomeinState extends State<Homein> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              subelemento("NOTICE",Colors.amberAccent),
-              subelemento("FORUMS",Colors.redAccent),
-              subelemento("PROJECTS",Colors.amberAccent)
+              subelemento("NOTICE",Colors.blueGrey),
+              subelemento("FORUMS",Colors.blueGrey),
+              subelemento("PROJECTS",Colors.blueGrey)
             ],
           ),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              subelemento("CEC NEWS",Colors.redAccent),
-              subelemento("EVENTS",Colors.amberAccent),
-              subelemento("STAFFS",Colors.redAccent)
+              subelemento("CEC NEWS",Colors.blueGrey),
+              subelemento("EVENTS",Colors.blueGrey),
+              subelemento("STAFFS",Colors.blueGrey)
             ],
           ),
 
